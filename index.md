@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to shibayan blog
 
-I'm glad you are here. I plan to talk about ...
+GitHub の勉強用に作成しています。楽しい。
